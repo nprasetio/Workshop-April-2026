@@ -1,0 +1,101 @@
+customer_id,name,gender,email,phone,region,city,date_of_birth,registration_date,segment,loyalty_points
+CUST-001,Sari Setiawan,Female,sari.setiawan32@email.com,08339670711,DKI Jakarta,DKI Kota,1982-04-19,2023-11-24,Silver,379
+CUST-002,Budi Kusuma,Male,budi.kusuma28@email.com,08349817734,Jawa Tengah,Jawa Tengah,1980-08-05,2023-07-29,Regular,0
+CUST-003,Irfan Halim,Male,irfan.halim36@email.com,08969119330,Bali,Bali,1997-01-07,2022-06-13,Silver,274
+CUST-004,Eko Pratama,Male,eko.pratama12@email.com,08507943839,DKI Jakarta,DKI Kota,1999-01-03,2022-12-19,Silver,122
+CUST-005,Lestari Kusuma,Female,lestari.kusuma71@email.com,08414797776,Sumatera Selatan,Sumatera Selatan,1993-11-14,2023-01-06,Silver,460
+CUST-006,Gita Kusuma,Female,gita.kusuma30@email.com,08208449460,Jawa Tengah,Jawa Tengah,1990-03-03,2023-10-13,Gold,1258
+CUST-007,Bagas Kusuma,Male,bagas.kusuma78@email.com,08781802744,DKI Jakarta,DKI Kota,1996-05-09,2022-09-08,Regular,0
+CUST-008,Sinta Nugroho,Female,sinta.nugroho88@email.com,08448195935,Sumatera Selatan,Sumatera Selatan,1997-05-27,2022-02-27,Regular,0
+CUST-009,Yusuf Halim,Male,yusuf.halim92@email.com,08437882805,Jawa Barat,Jawa Barat,1991-03-13,2023-02-10,Gold,1439
+CUST-010,Ahmad Iskandar,Male,ahmad.iskandar69@email.com,08382116655,Sumatera Utara,Sumatera Utara,1989-08-10,2023-08-21,Regular,0
+CUST-011,Dewi Pratama,Female,dewi.pratama20@email.com,08773715057,DKI Jakarta,DKI Kota,1995-04-06,2023-03-09,Silver,297
+CUST-012,Rini Setiawan,Female,rini.setiawan71@email.com,08112327652,Banten,Banten,1982-07-27,2023-11-30,Gold,1046
+CUST-013,Ayu Hidayat,Female,ayu.hidayat56@email.com,08269820594,Jawa Tengah,Jawa Tengah,1996-03-12,2022-09-27,Platinum,6158
+CUST-014,Gita Mahendra,Female,gita.mahendra78@email.com,08313579170,DKI Jakarta,DKI Kota,1997-02-06,2022-06-15,Silver,498
+CUST-015,Eko Suryadi,Male,eko.suryadi3@email.com,08220117054,Sulawesi Selatan,Sulawesi Selatan,1999-09-16,2022-11-11,Regular,0
+CUST-016,Joko Kusuma,Male,joko.kusuma98@email.com,08671988889,Sumatera Utara,Sumatera Utara,1982-11-17,2023-11-07,Regular,0
+CUST-017,Wulan Anggraini,Female,wulan.anggraini28@email.com,08679064766,Sumatera Utara,Sumatera Utara,1995-06-22,2022-07-25,Silver,304
+CUST-018,Kevin Purnama,Male,kevin.purnama16@email.com,08366186631,Jawa Barat,Jawa Barat,1987-08-01,2022-01-22,Silver,217
+CUST-019,Andi Nugroho,Male,andi.nugroho9@email.com,08133729406,Bali,Bali,1981-08-03,2023-06-11,Regular,0
+CUST-020,Tari Halim,Female,tari.halim61@email.com,08360916298,Sumatera Utara,Sumatera Utara,1998-02-10,2023-02-21,Regular,0
+CUST-021,Haris Purnama,Male,haris.purnama94@email.com,08158165865,Banten,Banten,1994-06-29,2022-04-11,Regular,0
+CUST-022,Desi Handoko,Female,desi.handoko25@email.com,08675832441,Jawa Tengah,Jawa Tengah,1989-06-18,2022-07-07,Regular,0
+CUST-023,Sinta Pratama,Female,sinta.pratama7@email.com,08800235246,Kalimantan Timur,Kalimantan Timur,1998-10-01,2022-01-16,Platinum,3362
+CUST-024,Joko Handoko,Male,joko.handoko52@email.com,08162959284,DKI Jakarta,DKI Kota,1980-01-18,2023-02-04,Regular,0
+CUST-025,Sinta Suryadi,Female,sinta.suryadi20@email.com,08303901283,Jawa Barat,Jawa Barat,1981-04-24,2023-08-17,Silver,131
+CUST-026,Joko Mahendra,Male,joko.mahendra68@email.com,08269042105,DKI Jakarta,DKI Kota,1991-05-23,2022-03-24,Gold,1718
+CUST-027,Desi Lestari,Female,desi.lestari16@email.com,08711684318,Jawa Barat,Jawa Barat,1993-05-02,2022-02-10,Silver,314
+CUST-028,Hana Setiawan,Female,hana.setiawan27@email.com,08819112790,Banten,Banten,1985-05-09,2022-09-29,Regular,0
+CUST-029,Doni Santoso,Male,doni.santoso59@email.com,08766964667,Kalimantan Timur,Kalimantan Timur,1982-03-30,2022-03-17,Silver,359
+CUST-030,Rina Nugroho,Female,rina.nugroho48@email.com,08406002884,DKI Jakarta,DKI Kota,1998-09-13,2023-07-11,Silver,413
+CUST-031,Lukman Hidayat,Male,lukman.hidayat85@email.com,08211225158,Sulawesi Selatan,Sulawesi Selatan,1983-01-05,2022-09-28,Regular,0
+CUST-032,Nanda Handoko,Male,nanda.handoko92@email.com,08468164906,Jawa Barat,Jawa Barat,1994-03-23,2022-09-28,Silver,228
+CUST-033,Eka Wijaya,Female,eka.wijaya1@email.com,08458153605,Sumatera Utara,Sumatera Utara,1994-04-16,2022-09-26,Regular,0
+CUST-034,Budi Pratama,Male,budi.pratama10@email.com,08841976666,Bali,Bali,1992-03-27,2022-02-06,Gold,1631
+CUST-035,Andi Hidayat,Male,andi.hidayat47@email.com,08954829815,Kalimantan Timur,Kalimantan Timur,1980-11-22,2023-01-02,Regular,0
+CUST-036,Lukman Anggraini,Male,lukman.anggraini80@email.com,08904745462,DKI Jakarta,DKI Kota,2000-11-08,2022-08-31,Gold,1344
+CUST-037,Eko Anggraini,Male,eko.anggraini86@email.com,08889262019,Sumatera Selatan,Sumatera Selatan,1985-12-25,2022-06-13,Gold,1283
+CUST-038,Joko Nugroho,Male,joko.nugroho26@email.com,08976803188,Sulawesi Selatan,Sulawesi Selatan,1987-11-04,2022-11-09,Gold,956
+CUST-039,Lestari Permana,Female,lestari.permana36@email.com,08174539964,Kalimantan Timur,Kalimantan Timur,1986-04-05,2022-12-26,Silver,304
+CUST-040,Sari Pratama,Female,sari.pratama34@email.com,08291735734,Jawa Timur,Jawa Timur,1985-12-14,2022-02-09,Regular,0
+CUST-041,Maya Surya,Female,maya.surya66@email.com,08224173718,Jawa Tengah,Jawa Tengah,1992-12-06,2022-07-14,Regular,0
+CUST-042,Sinta Handoko,Female,sinta.handoko47@email.com,08563102056,DKI Jakarta,DKI Kota,1994-11-24,2022-12-05,Silver,439
+CUST-043,Rini Hidayat,Female,rini.hidayat86@email.com,08538508549,Jawa Barat,Jawa Barat,1995-08-21,2022-10-30,Silver,198
+CUST-044,Nurul Surya,Female,nurul.surya73@email.com,08423142470,Jawa Tengah,Jawa Tengah,1998-09-12,2022-01-01,Regular,0
+CUST-045,Hana Purnama,Female,hana.purnama57@email.com,08574765466,Banten,Banten,1991-06-19,2023-04-30,Gold,847
+CUST-046,Kevin Surya,Male,kevin.surya43@email.com,08200273738,Sumatera Selatan,Sumatera Selatan,1996-11-05,2022-08-29,Silver,215
+CUST-047,Ahmad Suryadi,Male,ahmad.suryadi79@email.com,08925159146,DKI Jakarta,DKI Kota,1989-04-18,2023-10-07,Silver,467
+CUST-048,Desi Saputra,Female,desi.saputra84@email.com,08838328947,DKI Jakarta,DKI Kota,1996-11-03,2022-04-20,Silver,212
+CUST-049,Rini Purnama,Female,rini.purnama7@email.com,08698509918,Jawa Barat,Jawa Barat,1999-01-10,2022-05-05,Regular,0
+CUST-050,Wulan Permana,Female,wulan.permana97@email.com,08575209597,Jawa Timur,Jawa Timur,1996-02-18,2023-06-01,Regular,0
+CUST-051,Joko Purnama,Male,joko.purnama34@email.com,08907214179,Jawa Barat,Jawa Barat,1994-04-20,2022-10-11,Silver,366
+CUST-052,Irfan Kusuma,Male,irfan.kusuma92@email.com,08406798268,Jawa Barat,Jawa Barat,1987-07-14,2022-11-24,Gold,783
+CUST-053,Fajar Handoko,Male,fajar.handoko9@email.com,08545461013,Jawa Tengah,Jawa Tengah,1992-03-03,2023-04-23,Regular,0
+CUST-054,Tari Santoso,Female,tari.santoso98@email.com,08718142807,Jawa Tengah,Jawa Tengah,1980-02-18,2022-12-27,Regular,0
+CUST-055,Sinta Surya,Female,sinta.surya29@email.com,08624232414,Jawa Barat,Jawa Barat,1989-10-10,2023-05-13,Regular,0
+CUST-056,Nurul Purnama,Female,nurul.purnama17@email.com,08768143326,Jawa Timur,Jawa Timur,2000-05-04,2023-02-08,Silver,439
+CUST-057,Fitri Purnama,Female,fitri.purnama24@email.com,08153992714,Jawa Barat,Jawa Barat,1987-05-05,2022-08-05,Regular,0
+CUST-058,Maya Setiawan,Female,maya.setiawan11@email.com,08604988121,DKI Jakarta,DKI Kota,1992-02-05,2022-02-23,Platinum,7325
+CUST-059,Andi Santoso,Male,andi.santoso32@email.com,08314061901,Sumatera Selatan,Sumatera Selatan,1993-12-07,2022-06-06,Regular,0
+CUST-060,Citra Purnama,Female,citra.purnama90@email.com,08375139575,Sumatera Utara,Sumatera Utara,1983-10-06,2023-09-13,Silver,482
+CUST-061,Nurul Hidayat,Female,nurul.hidayat14@email.com,08721358005,DKI Jakarta,DKI Kota,1986-12-30,2023-08-13,Silver,292
+CUST-062,Rina Halim,Female,rina.halim89@email.com,08991819497,Jawa Timur,Jawa Timur,1982-04-14,2023-12-15,Silver,450
+CUST-063,Muhamad Wijaya,Male,muhamad.wijaya45@email.com,08672030854,Jawa Tengah,Jawa Tengah,1988-04-23,2022-03-12,Silver,274
+CUST-064,Joko Pratama,Male,joko.pratama56@email.com,08488896443,Jawa Timur,Jawa Timur,1998-08-02,2023-04-16,Silver,322
+CUST-065,Eka Surya,Female,eka.surya69@email.com,08931764920,Jawa Tengah,Jawa Tengah,1989-10-08,2023-08-30,Regular,0
+CUST-066,Desi Purnama,Female,desi.purnama73@email.com,08755338677,Banten,Banten,1987-07-18,2022-01-30,Regular,0
+CUST-067,Bagas Permana,Male,bagas.permana36@email.com,08740116562,Banten,Banten,1986-03-13,2023-07-24,Regular,0
+CUST-068,Putri Iskandar,Female,putri.iskandar98@email.com,08358045858,Banten,Banten,1994-06-27,2023-12-30,Regular,0
+CUST-069,Ahmad Hidayat,Male,ahmad.hidayat85@email.com,08724440558,Jawa Barat,Jawa Barat,1992-05-31,2023-06-28,Regular,0
+CUST-070,Irfan Setiawan,Male,irfan.setiawan40@email.com,08369942642,Jawa Barat,Jawa Barat,1996-03-05,2022-07-17,Regular,0
+CUST-071,Nurul Handoko,Female,nurul.handoko28@email.com,08893070706,Jawa Tengah,Jawa Tengah,1996-04-01,2023-08-27,Platinum,4318
+CUST-072,Citra Hidayat,Female,citra.hidayat30@email.com,08487493096,DKI Jakarta,DKI Kota,1980-04-25,2023-12-27,Silver,240
+CUST-073,Dian Saputra,Male,dian.saputra82@email.com,08908304440,Jawa Tengah,Jawa Tengah,1999-07-29,2022-01-13,Silver,340
+CUST-074,Andi Setiawan,Male,andi.setiawan62@email.com,08222500131,Sumatera Selatan,Sumatera Selatan,1988-12-26,2023-05-19,Regular,0
+CUST-075,Muhamad Hidayat,Male,muhamad.hidayat11@email.com,08366493008,DKI Jakarta,DKI Kota,1997-02-22,2023-03-03,Silver,416
+CUST-076,Nisa Purnama,Female,nisa.purnama39@email.com,08731924051,Kalimantan Timur,Kalimantan Timur,1986-11-06,2023-08-06,Silver,412
+CUST-077,Citra Setiawan,Female,citra.setiawan85@email.com,08187174381,DKI Jakarta,DKI Kota,1983-11-24,2023-07-20,Regular,0
+CUST-078,Putri Hidayat,Female,putri.hidayat5@email.com,08348545713,Jawa Barat,Jawa Barat,1986-05-05,2023-12-21,Gold,1907
+CUST-079,Tari Handoko,Female,tari.handoko55@email.com,08223240112,Jawa Timur,Jawa Timur,1994-07-11,2022-06-02,Gold,646
+CUST-080,Dian Surya,Male,dian.surya96@email.com,08985021282,Jawa Timur,Jawa Timur,1986-06-22,2023-03-26,Regular,0
+CUST-081,Bagas Mahendra,Male,bagas.mahendra70@email.com,08630208579,Jawa Tengah,Jawa Tengah,1993-05-31,2022-02-10,Gold,1160
+CUST-082,Doni Nugroho,Male,doni.nugroho87@email.com,08997603725,Bali,Bali,1993-03-02,2022-01-22,Platinum,6720
+CUST-083,Hendra Suryadi,Male,hendra.suryadi67@email.com,08799552991,Jawa Tengah,Jawa Tengah,1986-03-28,2022-07-05,Platinum,8670
+CUST-084,Rina Suryadi,Female,rina.suryadi45@email.com,08538460431,Jawa Barat,Jawa Barat,1995-01-11,2022-04-18,Gold,1343
+CUST-085,Lestari Iskandar,Female,lestari.iskandar5@email.com,08588365604,DKI Jakarta,DKI Kota,1985-08-29,2022-11-28,Regular,0
+CUST-086,Sari Iskandar,Female,sari.iskandar60@email.com,08543721204,DKI Jakarta,DKI Kota,1991-08-18,2023-01-06,Silver,355
+CUST-087,Citra Setiawan,Female,citra.setiawan71@email.com,08240674381,Sulawesi Selatan,Sulawesi Selatan,1989-10-29,2023-12-17,Regular,0
+CUST-088,Nurul Hidayat,Female,nurul.hidayat71@email.com,08114682844,Jawa Timur,Jawa Timur,1982-02-02,2022-08-19,Platinum,9758
+CUST-089,Fajar Suryadi,Male,fajar.suryadi92@email.com,08413383963,Jawa Tengah,Jawa Tengah,1986-02-17,2023-03-02,Gold,999
+CUST-090,Lestari Handoko,Female,lestari.handoko77@email.com,08645719501,Sumatera Utara,Sumatera Utara,1983-01-23,2022-03-13,Regular,0
+CUST-091,Eka Santoso,Female,eka.santoso37@email.com,08879591310,Jawa Barat,Jawa Barat,1993-03-01,2023-08-17,Platinum,5658
+CUST-092,Indah Permana,Female,indah.permana71@email.com,08919128302,Jawa Timur,Jawa Timur,1990-03-19,2022-11-26,Gold,989
+CUST-093,Haris Wijaya,Male,haris.wijaya41@email.com,08899621068,Jawa Tengah,Jawa Tengah,2000-06-26,2023-01-26,Regular,0
+CUST-094,Dewi Saputra,Female,dewi.saputra65@email.com,08733701411,Jawa Barat,Jawa Barat,1982-04-02,2023-03-27,Regular,0
+CUST-095,Fajar Kusuma,Male,fajar.kusuma61@email.com,08939156387,Kalimantan Timur,Kalimantan Timur,1987-08-05,2023-10-01,Silver,432
+CUST-096,Lukman Lestari,Male,lukman.lestari41@email.com,08773020489,Banten,Banten,1997-01-12,2023-05-15,Gold,1764
+CUST-097,Dian Nugroho,Male,dian.nugroho96@email.com,08197044071,Jawa Tengah,Jawa Tengah,1982-03-17,2023-10-11,Silver,151
+CUST-098,Sari Wijaya,Female,sari.wijaya42@email.com,08954852540,DKI Jakarta,DKI Kota,1988-01-15,2023-01-19,Regular,0
+CUST-099,Nurul Rahayu,Female,nurul.rahayu23@email.com,08184791618,Jawa Timur,Jawa Timur,1988-07-30,2023-09-27,Silver,354
+CUST-100,Bagas Purnama,Male,bagas.purnama33@email.com,08816014770,DKI Jakarta,DKI Kota,1998-01-17,2023-04-22,Gold,1619

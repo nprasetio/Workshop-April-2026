@@ -3,29 +3,49 @@ PROD-001,Kemeja Flanel Pria Kotak-Kotak,Fashion,Atasan Pria,189000,145,CV Sandan
 PROD-002,Celana Chino Slim Fit,Fashion,Celana Pria,245000,98,CV Sandang Nusantara,4.3,198
 PROD-003,Dress Batik Wanita Modern,Fashion,Atasan Wanita,320000,67,Batik Pesona Indonesia,4.7,445
 PROD-004,Sepatu Sneakers Casual Pria,Fashion,Sepatu,450000,54,PT Alas Kaki Jaya,4.4,231
-PROD-005,Tas Ransel Laptop 15 inch,Aksesoris,Tas,385000,112,PT Ransel Prima,4.6,289
-PROD-006,Dompet Kulit Pria Minimalis,Aksesoris,Dompet,275000,88,Handmade Leather Co,4.2,167
-PROD-007,Jam Tangan Analog Klasik,Aksesoris,Jam Tangan,890000,32,Swiss Import Trading,4.8,89
-PROD-008,Headphone Wireless Bluetooth,Elektronik,Audio,650000,76,PT Elektronik Hebat,4.5,356
-PROD-009,Power Bank 20000mAh Fast Charge,Elektronik,Gadget,285000,134,PT Elektronik Hebat,4.4,512
-PROD-010,Lampu LED Smart Wifi,Elektronik,Smart Home,125000,210,Bright Home Indonesia,4.1,678
-PROD-011,Kursi Gaming Ergonomis,Furniture,Kursi,2800000,12,PT Furnitur Comfort,4.6,34
-PROD-012,Meja Belajar Lipat Minimalis,Furniture,Meja,1250000,28,PT Furnitur Comfort,4.3,67
-PROD-013,Rak Buku Kayu 5 Susun,Furniture,Rak,850000,19,Kayu Jati Lestari,4.5,89
-PROD-014,Skincare Set Vitamin C Glow,Kecantikan,Skincare,420000,156,PT Cantik Alami,4.7,734
-PROD-015,Serum Hyaluronic Acid 30ml,Kecantikan,Skincare,185000,203,PT Cantik Alami,4.6,891
-PROD-016,Lipstik Matte Tahan Lama,Kecantikan,Makeup,95000,342,Kosmetik Pesona,4.3,1204
-PROD-017,Toner Kojic Acid Brightening,Kecantikan,Skincare,145000,178,PT Cantik Alami,4.5,567
-PROD-018,Suplemen Vitamin D3 1000IU,Kesehatan,Suplemen,120000,267,PT Sehat Selalu,4.4,445
-PROD-019,Masker N95 Box isi 20,Kesehatan,Medis,85000,415,PT Medika Prima,4.2,892
-PROD-020,Protein Whey Isolate 1kg,Kesehatan,Suplemen,450000,89,Gym Nutrition Store,4.6,234
-PROD-021,Matras Yoga Anti Slip 6mm,Olahraga,Fitness,195000,134,Sport Active Indo,4.5,312
-PROD-022,Dumbell Set 10kg Adjustable,Olahraga,Fitness,380000,45,Sport Active Indo,4.4,145
-PROD-023,Jersey Futsal Full Set,Olahraga,Pakaian Olahraga,250000,78,CV Sandang Nusantara,4.3,189
-PROD-024,Blender Portable USB,Dapur,Peralatan Masak,175000,167,PT Dapur Modern,4.1,423
-PROD-025,Panci Stainless Steel 22cm,Dapur,Peralatan Masak,235000,92,PT Dapur Modern,4.3,267
-PROD-026,Tempat Minum Tumbler 600ml,Dapur,Minuman,125000,289,Eco Bottle Indonesia,4.6,789
-PROD-027,Alat Panggang Listrik,Dapur,Peralatan Masak,450000,38,PT Dapur Modern,4.5,134
-PROD-028,Buku Novel Bestseller Lokal,Buku,Fiksi,89000,456,Penerbit Nusantara,4.7,678
-PROD-029,Buku Self-Improvement Populer,Buku,Non-Fiksi,125000,234,Penerbit Nusantara,4.5,445
-PROD-030,Puzzle 1000 Pieces Landscape,Mainan,Puzzle,185000,123,PT Mainan Kreatif,4.4,234
+PROD-005,Tas Selempang Kulit Wanita,Fashion,Tas,380000,43,UD Tas Cantik,4.6,187
+PROD-006,Jaket Denim Unisex,Fashion,Outerwear,520000,61,CV Sandang Nusantara,4.5,156
+PROD-007,Hijab Segi Empat Premium,Fashion,Hijab,85000,210,Hijab Nusantara,4.8,678
+PROD-008,Sepatu Boots Wanita,Fashion,Sepatu,650000,32,PT Alas Kaki Jaya,4.3,89
+PROD-009,Kaos Polos Pria Cotton Combed,Fashion,Atasan Pria,95000,320,CV Sandang Nusantara,4.2,891
+PROD-010,Rok Plisket Midi Wanita,Fashion,Bawahan Wanita,175000,88,Batik Pesona Indonesia,4.4,234
+PROD-011,Smartphone Samsung Galaxy A35,Elektronik,Handphone,4200000,28,PT Elektronik Maju,4.6,112
+PROD-012,Earbuds TWS Bluetooth,Elektronik,Audio,285000,156,PT Elektronik Maju,4.3,445
+PROD-013,Power Bank 20000mAh,Elektronik,Aksesori HP,220000,134,Gadget Store Indo,4.5,567
+PROD-014,Laptop Stand Aluminium,Elektronik,Aksesori Laptop,195000,76,Gadget Store Indo,4.4,289
+PROD-015,Smart Watch Fitness Tracker,Elektronik,Wearable,780000,41,PT Elektronik Maju,4.5,198
+PROD-016,Mouse Wireless Ergonomis,Elektronik,Aksesori Laptop,120000,198,Gadget Store Indo,4.3,634
+PROD-017,Keyboard Mechanical TKL,Elektronik,Aksesori Laptop,650000,34,Gadget Store Indo,4.7,145
+PROD-018,Webcam Full HD 1080p,Elektronik,Aksesori Laptop,310000,67,PT Elektronik Maju,4.4,223
+PROD-019,Meja Belajar Lipat Portable,Furniture,Meja,450000,23,CV Furniture Jaya,4.2,78
+PROD-020,Kursi Kerja Ergonomis,Furniture,Kursi,1250000,15,CV Furniture Jaya,4.6,45
+PROD-021,Rak Buku Minimalis 5 Susun,Furniture,Rak,680000,19,CV Furniture Jaya,4.3,67
+PROD-022,Lampu Meja LED Fleksibel,Furniture,Lampu,185000,87,Cahaya Nusantara,4.5,312
+PROD-023,Cermin Rias Meja,Furniture,Aksesori,245000,54,CV Furniture Jaya,4.4,134
+PROD-024,Serum Vitamin C 30ml,Kecantikan,Perawatan Wajah,185000,234,Cantik Alami,4.7,891
+PROD-025,Sunscreen SPF 50 PA+++,Kecantikan,Perawatan Wajah,125000,312,Cantik Alami,4.8,1234
+PROD-026,Masker Sheet Korea 10pcs,Kecantikan,Perawatan Wajah,95000,445,Cantik Alami,4.6,1567
+PROD-027,Foundation Cushion Matte,Kecantikan,Makeup,175000,123,Kosmetik Indah,4.4,456
+PROD-028,Lipstik Matte Long Lasting,Kecantikan,Makeup,89000,267,Kosmetik Indah,4.5,789
+PROD-029,Parfum Unisex 50ml,Kecantikan,Parfum,320000,78,Aroma Nusantara,4.6,234
+PROD-030,Toner Niacinamide 10%,Kecantikan,Perawatan Wajah,145000,189,Cantik Alami,4.7,678
+PROD-031,Rice Cooker Digital 1.8L,Peralatan Rumah,Dapur,385000,45,PT Rumah Pintar,4.5,189
+PROD-032,Blender Portable USB,Peralatan Rumah,Dapur,245000,67,PT Rumah Pintar,4.3,267
+PROD-033,Set Peralatan Makan Stainless,Peralatan Rumah,Dapur,165000,134,PT Rumah Pintar,4.4,445
+PROD-034,Air Fryer Mini 2L,Peralatan Rumah,Dapur,680000,29,PT Rumah Pintar,4.6,134
+PROD-035,Tempat Minum Tumbler 600ml,Peralatan Rumah,Dapur,125000,234,Eco Living,4.5,678
+PROD-036,Buku Python untuk Pemula,Buku & Stationery,Buku Teknis,145000,89,Penerbit Cerdas,4.7,312
+PROD-037,Planner Bulanan Hardcover,Buku & Stationery,Stationery,89000,178,Kertas Kreasi,4.5,567
+PROD-038,Buku Data Science dengan R,Buku & Stationery,Buku Teknis,175000,67,Penerbit Cerdas,4.6,234
+PROD-039,Set Pensil Sketsa 24pcs,Buku & Stationery,Stationery,125000,145,Kertas Kreasi,4.4,389
+PROD-040,Sticky Notes Warna 400pcs,Buku & Stationery,Stationery,45000,456,Kertas Kreasi,4.3,1234
+PROD-041,Suplemen Vitamin D3 1000IU,Kesehatan,Suplemen,95000,312,Sehat Selalu,4.6,789
+PROD-042,Masker KF94 isi 10,Kesehatan,Masker,65000,567,Sehat Selalu,4.5,1345
+PROD-043,Multivitamin Anak Gummy,Kesehatan,Suplemen,125000,234,Sehat Selalu,4.7,567
+PROD-044,Termometer Digital,Kesehatan,Alat Kesehatan,145000,123,Medika Plus,4.4,312
+PROD-045,Hand Sanitizer 500ml Refill,Kesehatan,Kebersihan,75000,445,Sehat Selalu,4.3,892
+PROD-046,Sepeda Lipat 20 Inch,Olahraga,Sepeda,2800000,8,Olahraga Jaya,4.5,34
+PROD-047,Matras Yoga Anti-Slip,Olahraga,Fitness,245000,67,Olahraga Jaya,4.6,189
+PROD-048,Resistance Band Set 5pcs,Olahraga,Fitness,125000,134,Olahraga Jaya,4.5,345
+PROD-049,Dumbbell Adjustable 10kg,Olahraga,Fitness,850000,19,Olahraga Jaya,4.7,89
+PROD-050,Jersey Olahraga Dri-Fit,Olahraga,Pakaian,185000,98,CV Sandang Nusantara,4.4,234
